@@ -1,7 +1,11 @@
 # image-processing-api
 
-Node image processing API using :
-Express, Sharp, Typescript
+Image processing API using :
+
+- Node
+- Express
+- Sharp
+- Typescript
 
 # Running locally 
 ```
