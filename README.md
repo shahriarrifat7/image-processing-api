@@ -6,7 +6,7 @@ Express, Sharp, Typescript
 # Running locally 
 
 npm install
-npm run tsc
+&& npm run tsc
 
 # Running test
 npm run test
